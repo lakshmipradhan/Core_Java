@@ -4,7 +4,7 @@ public class sum {
 
 	public static void main(String[] args) {
 		
-		int a=10 , b=10 ;
+		int a=10 , b=20 ;
 		int c=a+b;
 		if (c>=25)
 		{
